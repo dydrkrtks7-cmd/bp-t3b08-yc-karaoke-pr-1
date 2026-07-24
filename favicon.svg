@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>용강 클럽 추천 가이드</title>
+  <rect width="64" height="64" rx="13" fill="hsl(314 63% 26%)"/>
+  <path d="M64 0v26L38 0Z" fill="hsl(130 68% 66%)" opacity="0.16"/>
+  <g transform="rotate(270 32 32)"><rect x="15" y="15" width="28" height="28" rx="6" fill="none" stroke="hsl(314 24% 96%)" stroke-width="7"/><rect x="25" y="25" width="24" height="24" rx="6" fill="hsl(130 68% 66%)"/></g>
+</svg>
